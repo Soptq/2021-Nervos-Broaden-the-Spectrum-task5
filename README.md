@@ -13,7 +13,7 @@ Submitter: Soptq
 It is in the `erc20-address` file:
 
 ```
-0x6800c0E8b0A631095F3610ac2823E5222D0397eB
+0x6ec874374Da4b26Ca96E69d67549CB2f7c602964
 ```
 
 ## A screenshot of the console output immediately after checking your SUDT balance.
